@@ -9,6 +9,14 @@
     color: white;
 }
 
+.banner2{
+    background-image: url("../../assets/img/img2.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
 .banner::after{
     content: "";
     position: absolute;
